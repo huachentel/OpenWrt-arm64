@@ -377,7 +377,7 @@
 
 			lte_0 {
 				label = "lte_0";
-				gpios = <&gpio0 28 1>;
+				gpios = <&gpio0 24 1>;
 			};
 
 			lte_1 {
@@ -387,7 +387,7 @@
 
 			lte_2 {
 				label = "lte_2";
-				gpios = <&gpio0 24 1>;
+				gpios = <&gpio0 28 1>;
 			};
 
 			wifi {
@@ -397,7 +397,7 @@
 			
 			cloud {
 				label = "cloud";
-				gpios = <&gpio0 13 1>;
+				gpios = <&gpio0 22 1>;
 			};				
 		};
 
